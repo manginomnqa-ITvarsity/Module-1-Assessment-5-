@@ -1,0 +1,49 @@
+.gross_table{
+    border-width: 10px;
+    border-collapse: collapse;
+   
+    overflow-x: auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+td {
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h4 {
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+    padding: 20px;
+    letter-spacing: 2.5px;
+    background-color:green;
+}
+
+.menu a {
+    color: white;
+    padding: 20px;
+}
+
+.menu a:hover{
+   background-color: blue;
+}
+
+#header{
+    height: 50px;
+    background-color: grey
+}
